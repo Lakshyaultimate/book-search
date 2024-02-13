@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState} from "react";
 import Bkimg from "./components/Bkimg";
 import Input from "./components/Input";
 import Results from "./components/Results";
